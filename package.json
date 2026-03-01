@@ -1,0 +1,12 @@
+{
+  "name": "datadash-qa",
+  "version": "1.0.0",
+  "description": "Automated QA for DataDash using Playwright",
+  "main": "playwright-script.js",
+  "scripts": {
+    "test": "node playwright-script.js"
+  },
+  "dependencies": {
+    "playwright": "^1.40.0"
+  }
+}
